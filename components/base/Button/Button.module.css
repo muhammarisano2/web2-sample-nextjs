@@ -1,0 +1,12 @@
+.btn{
+    padding: 4px 8px;
+}
+.btnMyColor{
+    background-color: lightgreen;
+}
+.btnMyColor span{
+    color: red;
+}
+.btn-custom{
+    color: green;
+}
