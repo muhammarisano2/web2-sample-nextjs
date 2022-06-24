@@ -2,6 +2,13 @@
   padding: 0 2rem;
 }
 
+.wrapperImg{
+  width: 200px;
+  height: 200px;
+  /* background-color: red; */
+  background-image: url('/assets/dummy.jpg');
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
